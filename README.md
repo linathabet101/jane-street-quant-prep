@@ -1,1 +1,1 @@
-# jane-street-quant-prep
+# jane-street-ocaml
